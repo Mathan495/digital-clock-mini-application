@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#container{
+    border: 1;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 250px;
+    padding: 18px;
+    border-radius: 5px;
+    font-size: 50px;
+}
+#ampm{
+    font-size: 26px;
+}
